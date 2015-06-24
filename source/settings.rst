@@ -659,6 +659,9 @@ Refer :ref:`settings-confirmations`.
 |             |Always show advanced options         | In the Push, Merge and Rebase dialogs, advanced options are hidden by      |
 |             |                                     | default and shown only after you click a link or checkbox. If this setting |
 |             |                                     | is checked then these options are always shown on those dialogs.           |
+|             +-------------------------------------+----------------------------------------------------------------------------+
+|             |Remember the ignore-white-space      |Remember the ignore-white-spaces preference for all the diff viewers.       |
+|             |preference                           |                                                                            |
 +-------------+-------------------------------------+----------------------------------------------------------------------------+
 
 .. _settings-confirmations:
